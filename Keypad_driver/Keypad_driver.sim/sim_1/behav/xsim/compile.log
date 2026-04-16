@@ -1,8 +1,0 @@
-INFO: [VRFC 10-163] Analyzing VHDL file "C:/Users/jacob/Assig_2V2/Assig_2V2.srcs/sources_1/new/counter_keypad.vhd" into library xil_defaultlib
-INFO: [VRFC 10-3107] analyzing entity 'counter_keypad'
-INFO: [VRFC 10-163] Analyzing VHDL file "C:/Users/jacob/Assig_2V2/Assig_2V2.ip_user_files/bd/Keypad_encoder/ip/Keypad_encoder_counter_keypad_0_0/sim/Keypad_encoder_counter_keypad_0_0.vhd" into library xil_defaultlib
-INFO: [VRFC 10-3107] analyzing entity 'Keypad_encoder_counter_keypad_0_0'
-INFO: [VRFC 10-163] Analyzing VHDL file "C:/Users/jacob/Assig_2V2/Assig_2V2.ip_user_files/bd/Keypad_encoder/sim/Keypad_encoder.vhd" into library xil_defaultlib
-INFO: [VRFC 10-3107] analyzing entity 'Keypad_encoder'
-INFO: [VRFC 10-163] Analyzing VHDL file "C:/Users/jacob/Assig_2V2/Assig_2V2.gen/sources_1/bd/Keypad_encoder/hdl/Keypad_encoder_wrapper.vhd" into library xil_defaultlib
-INFO: [VRFC 10-3107] analyzing entity 'Keypad_encoder_wrapper'
