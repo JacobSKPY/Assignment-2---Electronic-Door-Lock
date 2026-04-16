@@ -1,0 +1,29 @@
+Vivado Simulator v2025.2
+Copyright 1986-2022 Xilinx, Inc. All Rights Reserved.
+Copyright 2022-2025 Advanced Micro Devices, Inc. All Rights Reserved.
+Running: C:/AMDDesignTools/2025.2/Vivado/bin/unwrapped/win64.o/xelab.exe --incr --debug typical --relax --mt 2 -L xil_defaultlib -L secureip -L xpm --snapshot Keypad_encoder_wrapper_behav xil_defaultlib.Keypad_encoder_wrapper -log elaborate.log 
+Using 2 slave threads.
+Starting static elaboration
+Completed static elaboration
+Starting simulation data flow analysis
+Completed simulation data flow analysis
+Time Resolution for simulation is 1ps
+Compiling package std.standard
+Compiling package std.textio
+Compiling package ieee.std_logic_1164
+Compiling package ieee.numeric_std
+Compiling package unisim.vcomponents
+Compiling package ieee.std_logic_arith
+Compiling architecture behavioral of entity xil_defaultlib.counter_keypad [counter_keypad_default]
+Compiling architecture keypad_encoder_counter_keypad_0_0_arch of entity xil_defaultlib.Keypad_encoder_counter_keypad_0_0 [keypad_encoder_counter_keypad_0_...]
+Compiling architecture behavioral of entity xil_defaultlib.decoder_keypad [decoder_keypad_default]
+Compiling architecture keypad_encoder_decoder_keypad_0_0_arch of entity xil_defaultlib.Keypad_encoder_decoder_keypad_0_0 [keypad_encoder_decoder_keypad_0_...]
+Compiling architecture behavioral of entity xil_defaultlib.mux_keypad [mux_keypad_default]
+Compiling architecture keypad_encoder_mux_keypad_0_0_arch of entity xil_defaultlib.Keypad_encoder_mux_keypad_0_0 [keypad_encoder_mux_keypad_0_0_de...]
+Compiling architecture behavioral of entity xil_defaultlib.not_gate_keypad [not_gate_keypad_default]
+Compiling architecture keypad_encoder_not_gate_keypad_0_0_arch of entity xil_defaultlib.Keypad_encoder_not_gate_keypad_0_0 [keypad_encoder_not_gate_keypad_0...]
+Compiling architecture behav of entity xil_defaultlib.pad_mod [pad_mod_default]
+Compiling architecture keypad_encoder_pad_mod_0_0_arch of entity xil_defaultlib.Keypad_encoder_pad_mod_0_0 [keypad_encoder_pad_mod_0_0_defau...]
+Compiling architecture structure of entity xil_defaultlib.Keypad_encoder [keypad_encoder_default]
+Compiling architecture structure of entity xil_defaultlib.keypad_encoder_wrapper
+Built simulation snapshot Keypad_encoder_wrapper_behav

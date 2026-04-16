@@ -1,0 +1,9 @@
+{
+	"version": "1.0",
+	"modules": {
+		"Keypad_encoder": {
+			"proto_instances": {
+			}
+		}
+	}
+}
